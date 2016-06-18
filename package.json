@@ -1,0 +1,14 @@
+{
+  "name": "bizsitegenie-models",
+  "version": "1.0.0",
+  "description": "The mongoose schema files for the builder UI of bizsitegenie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Kumar",
+  "license": "MIT",
+  "homepage" : "http://www.bizsitegenie.com",
+  "repository" : {"type": "git", "url": "git://github.com/dreamerkumar/bizsitegenie-models.git"},
+  "keywords" : ["bizsitegenie", "MEAN", "MEAN Stack", "Rapid Application Development", "Web Application Builder"]
+}
